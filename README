@@ -1,0 +1,32 @@
+How it came about.
+***********************************************************************
+
+For many reasons, I always wanted to make one of these.
+I remember struggling over stupid issues a few months 
+back when I tried making this for the first time.
+And the funny part is that that code was three times bigger and wierder.
+I gave up on it after a long time because it kept throwing
+a NullPointerException whenever it paused for input.
+
+Can come very handy . 
+Can easily be customized to make stuff like
+Automated Bots, chat clients etc
+
+***********************************************************************
+
+Whats more?
+***********************************************************************
+
+Pretty simple to edit and run
+Figure out which parts need to customized and write and read
+to/from the socket taking advantage of conditions and blah blah
+
+Instead of the old fashoined command line host/port,
+JTel prompts you on-screen for it.
+
+************************************************************************
+
+So What is JTel?
+
+Telnet in Java .
+Simple as that .
